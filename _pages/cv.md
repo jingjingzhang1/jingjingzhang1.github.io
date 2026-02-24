@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+📄 [Download Resume (PDF)](/files/Resume.pdf){: .btn .btn--info}
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
