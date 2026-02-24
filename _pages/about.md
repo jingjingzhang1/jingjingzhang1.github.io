@@ -14,8 +14,40 @@ I'm broadly interested in **machine learning**, **big data systems**, and **AI a
 ## Education
 
 **University of California, Berkeley**
-B.S. Computer Science | B.S. Data Science (Economics emphasis)
+B.S. Computer Science \| B.S. Data Science (Economics emphasis)
 Expected Graduation: May 2026
+
+---
+
+## What I'm Working On
+
+### 🔬 Research — Adaptive Online Probabilistic Forecasting via Residual Diffusion
+*Ongoing*
+
+Developing a hybrid forecasting framework that combines iTransformer and Diffusion Models to push the boundary of time-series prediction:
+
+- **Point-Residual Decomposition** — Separating base trends from complex stochastic residuals by hybridizing iTransformer and Diffusion Models
+- **Dimension Inversion** — Capturing long-range temporal dependencies by treating variables as independent tokens via an inverted architecture
+- **Codebook-based Condition Model** — Implementing a dynamic latent "dictionary" to bridge point forecasts with generative residual outputs
+- **Adaptive Sampling** — Real-time update strategy to ensure model resilience against Concept Drift without exhaustive retraining
+
+---
+
+### 🛠️ Project — Click2GO: Agentic Travel Planner
+*Recently Completed*
+
+An AI-powered pipeline that transforms real traveler content from Xiaohongshu into optimized, day-by-day itineraries. Locations are validated by a Claude agent and clustered via K-Means, then exported as a PDF and interactive map, with full session tracking.
+
+**Stack:** FastAPI · Claude Opus 4.6 · SQLAlchemy · SQLite · ReportLab · Folium
+
+---
+
+### ☀️ Upcoming — Amazon Software Development Engineer Intern
+*Summer 2026 · Seattle, WA*
+
+Excited to be joining Amazon as an SDE intern this summer!
+
+---
 
 ## Interests
 
@@ -24,6 +56,6 @@ Expected Graduation: May 2026
 - AI Agents & LLM Applications
 - Data-Driven Decision Making
 
-## Connect
+---
 
 Feel free to reach out via [email](mailto:zhangjingjing0322@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jingjing-zhang1/).

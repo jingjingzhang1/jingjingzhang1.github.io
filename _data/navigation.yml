@@ -1,8 +1,8 @@
 # Navigation links shown in the site header.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Experience"
+    url: /experience/
 
   - title: "Projects"
     url: /portfolio/
