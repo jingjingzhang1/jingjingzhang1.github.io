@@ -1,6 +1,6 @@
 ---
 title: "Click2GO — Agentic Travel Intelligence Engine"
-excerpt: "A multi-stage, agent-driven travel planning system that transforms unstructured social content from Xiaohongshu into intelligently curated itineraries, validated by Claude AI and optimized via K-Means clustering.<br/>"
+excerpt: "A multi-stage, agent-driven travel planning system that transforms unstructured social content from Xiaohongshu into intelligently curated itineraries, validated by Claude AI and optimized via K-Means clustering.<br/><br/><code>FastAPI</code> &nbsp;<code>Claude Opus 4.6</code> &nbsp;<code>K-Means</code> &nbsp;<code>SQLAlchemy</code> &nbsp;<code>ReportLab</code> &nbsp;<code>Folium</code> &nbsp;<code>Docker</code><br/><br/><a href='/portfolio/click2go/' style='display:inline-block; margin-top:6px; padding:8px 18px; background:#0066cc; color:#fff; border-radius:4px; font-weight:600; text-decoration:none;'>View Project Details →</a>"
 collection: portfolio
 ---
 
