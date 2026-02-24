@@ -22,7 +22,7 @@ repository               : "jingjingzhang1/jingjingzhang1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_picture.jpg"
   name             : "Jingjing Zhang"
   pronouns         : # example: "she/her"
   bio              : "Junior at UC Berkeley studying CS and Data Science (Economics). Interested in machine learning, big data, and AI agents."
