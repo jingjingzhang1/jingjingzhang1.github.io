@@ -14,8 +14,8 @@ I'm broadly interested in **machine learning**, **big data systems**, and **AI a
 ## Education
 
 **University of California, Berkeley**
-B.S. Computer Science \| B.S. Data Science (Economics emphasis)
-Expected Graduation: May 2026
+B.A. Computer Science \| B.A. Data Science (Economics emphasis)
+Expected Graduation: May 2027
 
 ---
 
@@ -45,7 +45,7 @@ An AI-powered pipeline that transforms real traveler content from Xiaohongshu in
 ### ☀️ Upcoming — Amazon Software Development Engineer Intern
 *Summer 2026 · Seattle, WA*
 
-Excited to be joining Amazon as an SDE intern this summer!
+Excited to be returning to Amazon as an SDE intern this summer!
 
 ---
 
